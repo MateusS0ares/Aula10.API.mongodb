@@ -1,0 +1,26 @@
+[
+  {
+    "nome": "Re:Zero",
+    "genero": "Shounen",
+    "ano": "2016",
+    "autor": "Tappei Nagatsuki"
+  },
+  {
+    "nome": "Sword Art Online",
+    "genero": "Shounen",
+    "ano": "2014",
+    "autor": "Reki Kawahara"
+  },
+  {
+    "nome": "Fairy Tail",
+    "genero": "Shounen",
+    "ano": "2006",
+    "autor": "Hiro Mashima"
+  },
+  {
+    "nome": "One Piece",
+    "genero": "Shounen",
+    "ano": "1997",
+    "autor": "Eiichiro Oda"
+  }
+]
